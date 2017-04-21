@@ -1,0 +1,20 @@
+/* style globalne - start */
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 20px;
+}
+/* style globalne - stop */
+
+/* pojawiający się kwadrat - start */
+
+.kwadrat-jq {
+    width: 200px;
+    height: 200px;
+    background-color: #d5240d;
+}
+
+/* pojawiający się kwadrat - stop */
